@@ -1,4 +1,4 @@
-# Krazy Image Processor
+# Image Processor
 
 A simple C command-line tool for basic image processing.
 
