@@ -15,21 +15,16 @@ Download them and place them in the project root before building.
 
 ## Build
 
-\```bash
-make
-\```
+`make`
 
 ## Usage
 
-\```bash
-./krazy <input_image> <output_image>
-\```
+`./krazy <input_image> <output_image>`
 
 ### Example
 
-\```bash
-./krazy photo.jpg output.png
-\```
+
+`./krazy photo.jpg output.png`
 
 You'll be prompted to:
 1. Convert to black & white (y/n)
@@ -38,5 +33,5 @@ You'll be prompted to:
 ## Supported Formats
 Input: JPG, PNG, BMP, TGA (anything stb_image supports)  
 Output: PNG
-```
+
 
