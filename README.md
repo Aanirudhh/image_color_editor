@@ -14,17 +14,21 @@ This project uses the [stb_image](https://github.com/nothings/stb) single-header
 Download them and place them in the project root before building.
 
 ## Build
-
-`make`
+```bash
+make
+```
 
 ## Usage
 
-`./krazy <input_image> <output_image>`
+```bash
+./krazy <input_image> <output_image>
+```
 
 ### Example
 
-
-`./krazy photo.jpg output.png`
+```bash
+./krazy photo.jpg output.png
+```
 
 You'll be prompted to:
 1. Convert to black & white (y/n)
